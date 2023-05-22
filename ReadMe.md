@@ -1,15 +1,13 @@
 Data Science Course Project
 
-Team 4
-
 Team members:-
 
-|Name|Sec|BN|
-| :-: | :-: | :-: |
-|Robert Mounir|1|31|
-|Bishoy Atef|1|22|
-|Mohamed Ahmed|2|11|
-|Nour eldin Mostafa|2|33|
+|Name|
+| :-: |
+|Robert Mounir|
+|Bishoy Atef|
+|Mohamed Ahmed|
+|Nour eldin Mostafa|
 
 Outline
 
